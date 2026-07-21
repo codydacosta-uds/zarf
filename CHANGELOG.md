@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.81.2](https://github.com/zarf-dev/zarf/compare/v0.81.1...v0.81.2) (2026-07-21)
+
+
+### Features
+
+* **schema:** support multiple API versions from a single schema file ([#4949](https://github.com/zarf-dev/zarf/issues/4949)) ([f6d5cdd](https://github.com/zarf-dev/zarf/commit/f6d5cdd2690356d9736d68c49ca4d49a6cb84d96))
+* stop requiring version for localpath charts ([#5080](https://github.com/zarf-dev/zarf/issues/5080)) ([82ec120](https://github.com/zarf-dev/zarf/commit/82ec12072042fb856f0abf61f611e7bd30a42efd))
+
+
+### Bug Fixes
+
+* agent webhook logs ([#5081](https://github.com/zarf-dev/zarf/issues/5081)) ([b44a809](https://github.com/zarf-dev/zarf/commit/b44a809a6daf998196b6ad2844627fe22c7ce341))
+
 ## [0.81.1](https://github.com/zarf-dev/zarf/compare/v0.81.0...v0.81.1) (2026-07-17)
 
 
